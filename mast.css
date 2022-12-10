@@ -1,0 +1,50 @@
+body
+{
+  background: repeating-linear-gradient(to right, #1a2f3f, #7094ce);
+  background-size: cover;
+  overflow: none;
+}
+.cont
+{
+  text-align: center;
+  background: black;
+  color: #fff;
+  border-radius: 15px;
+  margin: 15px;
+  padding: 15px;
+}
+ion-icon
+{
+  color:#fff;
+  font-size: 50px;
+  padding: 10px;
+}
+h1
+{
+  background: black;
+  color: #fff;
+  margin: 15px;
+  padding: 15px;
+  border-radius: 15px;
+  text-align: center;
+}
+img
+{
+  border-radius: 15px 15px 15px 15px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin: 15px;
+  width: 150px;
+}
+.imgs
+{
+  padding: 15px;
+  margin: 15px;
+  border-radius: 15px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background: black;
+  width: 1275px;
+}
